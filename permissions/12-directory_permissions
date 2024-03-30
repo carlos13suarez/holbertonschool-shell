@@ -1,0 +1,2 @@
+#!/bin/bash
+install -dm 751 my_dir
